@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @BraianBarraza
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on different projects that involve react and javascript
-- 📫 How to reach me Braian_019@hotmail.com
--  I speak spanish, english and german
+### Hello, I'm Braian Barraza! 👋
 
+- 💻 **Web Developer** specialized in e-commerce solutions.
+- 🚀 Currently working at **SHD Andernach**, where I develop solutions using **Shopware 6.5** with **PHP, Symfony, VueJS, Twig, SCSS**, and **Bootstrap**.
+- 🌱 Deepening my knowledge in **Symfony** and **database management**, always eager to learn and grow.
+- 🤝 Open to collaborating on projects involving **React**, **JavaScript**, and other emerging technologies.
+- 📫 Feel free to reach me at **Braian_019@hotmail.com**.
+- 🌍 I speak **Spanish**, **English**, and **German**.
+
+Thanks for stopping by! I'm always up for working on new ideas and challenges.
 
 <!---
 BraianBarraza/BraianBarraza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

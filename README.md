@@ -1,6 +1,6 @@
 ### Hello, I'm Braian Barraza! 👋
 
-- 💻 **Web Developer** specialized in E-Commerce.
+- 💻 Trainee **Web Developer** specialized in E-Commerce.
 - 🚀 Currently working at **SHD Andernach**, where I develop solutions using **Shopware 6.5** with **PHP, Symfony, VueJS, Twig, SCSS**, and **Bootstrap**.
 - 🌱 Deepening my knowledge in **UI, UX** and **database management**, always eager to learn and grow.
 - 🤝 Open to collaborating on projects involving **Vue**, **React**, **Tailwind**, and other interesting technologies.
